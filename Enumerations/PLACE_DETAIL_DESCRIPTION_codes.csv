@@ -1,0 +1,83 @@
+PLACE_DETAIL_DESCRIPTION,Code
+Air/Bus/Train Terminal,0
+Other - Commercial Place,1
+Street/Highway,2
+Gas Station,3
+Private Residence,4
+Apartment/Duplex Private Res,5
+Residential Care Facility,6
+Fitness Center,7
+Hotel/Motel,8
+Other - Open Area,9
+Financial Institution,10
+School - Primary or Secondary,11
+Restaurant/Diner/Coffee Shop,12
+Other - Retail,13
+Construction Site,14
+Mini Storage,15
+Department Store,16
+Drug Store,17
+Other - Residential,18
+Cemetery,19
+Salvage Yard,20
+Factory/Warehouse,21
+Church/Synagogue/Temple,22
+Office,23
+Other - Public/Non-Residential,24
+Hospital/Medical Facility,25
+Grocery Store/Supermarket,26
+Bar/Tavern/Nightclub,27
+Convenience Store,28
+ATM,29
+Industrial Site,30
+Stadium/Arena,31
+Community Center,32
+Shopping Mall,33
+Gambling Facility/Casino/Race Track,34
+Cyberspace,35
+Bus Stop,36
+Light Rail/Trolley,37
+Public Park/Playground,38
+Public Housing Private,39
+Government Building,40
+Theater,41
+Shelter-Mission/Homeless,42
+Auto Parts/Service Center,43
+Mobile Home/Houseboat,44
+Garage/Storage - Detached,45
+Open Field,46
+Abandoned/Condemned Structure,47
+Vehicle Dealership,48
+Garage/Storage - Attached,49
+Beauty Salon/Barber Shop,50
+Car Wash,51
+Common Area of Multi-Family Dwelling,52
+Day Care,53
+Video Store,54
+Non-Residential Care Facility,55
+School - College or University,56
+Construction Trailer,57
+Boarding House/Dorm/Private Room,58
+Woods,59
+Bus - Charter/Tour Bus,60
+Bus - CATS Bus/Vehicle,61
+ABC/Liquor Store,62
+School/College,63
+Dock/Wharf/Freight/Modal Terminal,64
+Pawn Shop,65
+Park and Ride Facility,66
+Amusement Park,67
+Railroad Tracks,68
+Bus - School Bus,69
+Jail/Prison,70
+Jewelry Store,71
+Farm Facility,72
+Taxicab,73
+Camp/Campground,74
+Lake,75
+Illegal/Unlicensed Liquor Establishment,76
+Rest Area,77
+Military Installation,78
+Mobile Home Dealership,79
+Bus - Non-Specific,80
+Taxi Company,81

@@ -1,0 +1,6 @@
+PLACE_TYPE_DESCRIPTION,Codes
+Public/Non-Residential,0
+Commercial Place,1
+Open Area,2
+Retail,3
+Residential,4
