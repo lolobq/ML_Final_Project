@@ -1,0 +1,50 @@
+Offense Code,HIGHEST_NIBRS_DESCRIPTION,Crime Against
+200,Arson,Property
+13A,Aggravated Assault,Person
+13B,Simple Assault,Person
+13C,Intimidation,Person
+510,Bribery,Property
+220,Burglary/B&E,Property
+250,Counterfeiting/Forgery,Property
+290,Damage/Vandalism Of Property,Property
+35A,Drug/Narcotic Violations,Society
+35B,Drug Equipment Violations,Society
+270,Embezzlement,Property
+210,Extortion/Blackmail,Property
+26A,False Pretenses/Swindle,Property
+26B,Credit Card/Automated Teller Fraud,Property
+26C,Impersonation,Property
+26D,Welfare Fraud,Property
+26E,Wire Fraud,Property
+39A,Betting/Wagering,Society
+39B,Assisting Gambling,Society
+39C,Gambling Equipment Violations, Society
+09A,Murder,Person
+09B,Negligent Manslaughter,Person
+09C,Justifiable Homicide,Person/Not a Crime
+100,Kidnapping,Person
+23A,Pocket-Picking,Property
+23B,Purse-Snatching,Property
+23C,Shoplifting,Property
+23D,Theft From Building,Property
+23E,Theft From Coin-Operated Machine or Device,Property
+23F,Theft From Motor Vehicle,Property
+23G,Theft of Motor Vehicle Parts from Vehicle,Property
+240,Motor Vehicle Theft,Property
+370,Pornography/Obscene Material,Society
+40A,Prostitution,Society
+40C,Purchasing Prostitution,Society
+120,Robbery,Property
+11A,Forcible Rape,Person
+11B,Forcible Sodomy,Person
+11C,Sexual Assault With Object,Person
+11D,Forcible Fondling,Person
+36A,Incest,Person
+36B,Statutory Rape,Person
+280,Stolen Property Offenses,Property
+520,Weapon Law Violations,Society
+90B,Curfew/Loitering/Vagrancy Violations,Society
+90D,Driving Under The Influence,Society
+90F,Family Offenses; Nonviolent,Society
+90H,Peeping Tom,Society
+90Z,All Other Offenses,Person/Property/or Society
