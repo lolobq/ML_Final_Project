@@ -1,6 +1,8 @@
 # ML_Final_Project
 We used CMPD crime statistics from 2016-2023, to classify and predict crimes committed in Charlotte during this time based on 25 input features such as latitude, longitude, date, zip code, percentage of non-white people in the zip code, and percentage of home owners in the zip code using over 276,000 data points.
 
+We used a Naive Bayesian model for classical prediction and a Spatiotemporal model for a deep learning model. 
+
 ## 1. Datasets:
 - Crime Incidents: https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about
 - Vulnerability to Displacement by Neighborhood Profile Area: https://data.charlottenc.gov/datasets/charlotte::vulnerability-to-displacement-by-npa/about
