@@ -3,7 +3,7 @@ We used CMPD crime statistics from 2016-2023, to classify and predict crimes com
 
 We used a Naive Bayesian model for classical prediction and a Spatiotemporal model for a deep learning model. 
 
-## 1. Datasets:
+## 1. Datasets Used for Our Dataset:
 - Crime Incidents: https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about
 - Vulnerability to Displacement by Neighborhood Profile Area: https://data.charlottenc.gov/datasets/charlotte::vulnerability-to-displacement-by-npa/about
 - 2020 Census for Zip Codes in North Carolina: https://www.northcarolina-demographics.com/zip_codes_by_population
