@@ -10,7 +10,7 @@ We used CMPD crime statistics from 2016-2023, to classify and predict crimes com
 Contains enumerations in csv files such as NIBRS offense codes from the FBI, CMPD patrol division, and location and place type descriptions.
 
 ## 3. Classical Models:
-- SVC model, which only provided a 7% accuracy.
+- SVC model: provided a 7% accuracy.
 - Naive Bayesian model we ended up implementing with a 29% accuracy.
 
 ## 4. Deep Learning Models:
