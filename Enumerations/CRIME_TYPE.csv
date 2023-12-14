@@ -1,0 +1,42 @@
+HIGHEST_NIBRS_DESCRIPTION,CRIME_TYPE,CRIME_TYPE_MAP
+Kidnapping,Assault,0
+Negligent Manslaughter,Assault,0
+Intimidation,Assault,0
+Simple Assault,Assault,0
+Aggravated Assault,Assault,0
+Murder,Assault,0
+Theft From Building,Thefts,1
+Purse-Snatching,Thefts,1
+Pocket-Picking,Thefts,1
+Stolen Property Offenses,Thefts,1
+Burglary/B&E,Thefts,1
+Robbery,Thefts,1
+Shoplifting,Thefts,1
+All Other Thefts,Thefts,1
+Theft of Motor Vehicle Parts from Vehicle,Vehicle Thefts,2
+Motor Vehicle Theft,Vehicle Thefts,2
+Theft From Motor Vehicle,Vehicle Thefts,2
+Damage/Vandalism Of Property,Property Offenses,3
+Arson,Property Offenses,3
+Incest,Sexual Offenses,4
+Forcible Fondling,Sexual Offenses,4
+Sexual Assault With Object,Sexual Offenses,4
+Peeping Tom,Sexual Offenses,4
+Prostitution,Sexual Offenses,4
+Statutory Rape,Sexual Offenses,4
+Forcible Sodomy,Sexual Offenses,4
+Forcible Rape,Sexual Offenses,4
+Pornography/Obscene Material,Sexual Offenses,4
+Embezzlement,Money Offenses,5
+False Pretenses/Swindle,Money Offenses,5
+Assisting Gambling,Money Offenses,5
+Gambling Equipment Violations,Money Offenses,5
+Betting/Wagering,Money Offenses,5
+Bribery,Money Offenses,5
+Drug Equipment Violations,Drug Offenses,6
+Drug/Narcotic Violations,Drug Offenses,6
+Driving Under The Influence,Drug Offenses,6
+Counterfeiting/Forgery,Falsification,7
+Welfare Fraud,Falsification,7
+Wire Fraud,Falsification,7
+Impersonation,Falsification,7
