@@ -1,0 +1,47 @@
+HIGHEST_NIBRS_DESCRIPTION,New Mapping,Original Mapping
+Theft From Motor Vehicle,0,1
+Damage/Vandalism Of Property,1,2
+Theft From Building,2,3
+All Other Thefts,3,5
+Motor Vehicle Theft,4,6
+Intimidation,5,7
+Simple Assault,6,8
+Aggravated Assault,7,9
+Burglary/B&E,8,10
+Theft of Motor Vehicle Parts from Vehicle,9,11
+Counterfeiting/Forgery,10,12
+Drug/Narcotic Violations,11,14
+Shoplifting,12,15
+Robbery,13,18
+Forcible Rape,14,19
+Stolen Property Offenses,15,21
+Impersonation,16,22
+Pocket-Picking,17,24
+Weapon Law Violations,18,25
+Arson,19,26
+Curfew/Loitering/Vagrancy Violations,20,27
+Negligent Manslaughter,21,28
+Murder,22,29
+Purse-Snatching,23,31
+False Pretenses/Swindle,24,32
+Drug Equipment Violations,25,33
+Family Offenses; Nonviolent,26,34
+Driving Under The Influence,27,38
+Kidnapping,28,39
+Embezzlement,29,41
+Pornography/Obscene Material,30,42
+Forcible Fondling,31,43
+Forcible Sodomy,32,46
+Extortion/Blackmail,33,47
+Incest,34,52
+Statutory Rape,35,53
+Peeping Tom,36,55
+Wire Fraud,37,56
+Assisting Gambling,38,58
+Justifiable Homicide,39,59
+Prostitution,40,60
+Sexual Assault With Object,41,63
+Gambling Equipment Violations,42,65
+Betting/Wagering,43,66
+Welfare Fraud,44,69
+Bribery,45,71
